@@ -1,2 +1,2 @@
 # visit_counter
-Add a site visitor counter to bottom of page, starting at 91,910
+Add a site visit counter to bottom of each page, starting at 91,910
